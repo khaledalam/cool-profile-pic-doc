@@ -1,8 +1,8 @@
 # Cool Profile Pic Doc
-AutoProfilePicture app will help users to change their profile photos automatically based on settings that they will choose!
+AutoProfilePic app helps users to change their social media profile pictures automatically based on settings that they will choose such as new photo category and the changing frequency!
 
 Using:<br>
-Docker(-compose), DigitalOcean, AWS, Linux, Crons, Flask, RabbitMQ, PHP, Python, Node, MySQL, Express, MongoDB, SQL, Social media APIs, Flask_Dance, PDO, TwitterAPI, GitHubAPI, PhpMyAdmin
+Docker(-compose), DigitalOcean, AWS, Linux, Crons, Flask, RabbitMQ, PHP, Python, Node, MySQL, Express, MongoDB, SQL, Social media APIs, Flask_Dance, PDO, TwitterAPI, GitHubAPI, NPM, PhpMyAdmin, Composer, Guzzle, Sockets, PIL
 
 
 ## Demo (the queuing cycle)
@@ -17,9 +17,10 @@ Docker(-compose), DigitalOcean, AWS, Linux, Crons, Flask, RabbitMQ, PHP, Python,
 
 
 <br><hr><br>
-### Email me for the source code: khaledalam.net@gmail.com
+### Email me for the source code: <a href="mailto:khaledalam.net@gmail.com">khaledalam.net@gmail.com</a>
 
-<a href="https://linkedin.com/in/khaledalam"><img src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50"></a>
+<a href="https://linkedin.com/in/khaledalam"><img src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50"></a> &nbsp; &nbsp; &nbsp; <a href="https://github.com/khaledalam"><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50"></a> &nbsp; &nbsp; &nbsp; <a href="http://khaledalam.net/"><img src="https://i.pinimg.com/originals/00/50/71/005071cbf1fdd17673607ecd7b7e88f6.png" width="50"></a>
+
 <br>
 
 ## Reflection
@@ -42,9 +43,12 @@ Current demo is version 1 of the app
 - design mailer microservice 
 - handle higher traffic and load
 - automate the deployment process and increase its speed
+- advertise (image processing -> add watermark @CoolProfilePic text on new images) 
 
 
 ## Random sketches
 
-<img src="">
+<img src="sketch_1.jpg">
+<br><br>
+<img src="sketch_2.jpg">
 
