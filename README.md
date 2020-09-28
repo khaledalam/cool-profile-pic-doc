@@ -2,7 +2,7 @@
 CoolProfilePic app helps users to change their social media profile pictures automatically based on settings that they will choose such as new photo category and the changing frequency!
 
 ## Using:<br>
-Docker(-compose), DigitalOcean, AWS, Linux, Crons, Flask, RabbitMQ, PHP, Python, Node, MySQL, Express, MongoDB, SQL, Social media APIs, Flask_Dance, PDO, TwitterAPI, GitHubAPI, NPM, PhpMyAdmin, Composer, Guzzle, Sockets, PIL
+Docker(-compose), DigitalOcean, AWS, Jinja, Linux, Crons, Flask, RabbitMQ, PHP, Python, Node, MySQL, Express, MongoDB, SQL, Social media APIs, Flask_Dance, PDO, TwitterAPI, GitHubAPI, NPM, PhpMyAdmin, Composer, Guzzle, Sockets, PIL
 
 
 ## Demo (the queuing cycle)
