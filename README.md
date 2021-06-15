@@ -46,9 +46,4 @@ Current demo is version 1 of the app
 - advertise (image processing -> add watermark @CoolProfilePic text on new images) 
 
 
-## Random sketches
-
-<img src="sketch_1.jpg">
-<br><br>
-<img src="sketch_2.jpg">
 
